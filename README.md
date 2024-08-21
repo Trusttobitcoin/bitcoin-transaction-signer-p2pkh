@@ -10,9 +10,7 @@ This Python script provides functionality to sign and broadcast Bitcoin transact
 - Fetch Unspent Transaction Outputs (UTXOs) from BlockCypher's testnet API
 - Broadcast signed transactions to the Bitcoin testnet
 - Support for Pay-to-Public-Key-Hash (P2PKH) testnet addresses
-- ECDSA signing using the secp256k1 curve
-- Double SHA256 hashing for transaction digests
-- Base58 encoding and decoding for Bitcoin testnet addresses
+
 
 
 ## How It Works
